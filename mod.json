@@ -13,5 +13,6 @@
 	"description": "$MOD_DESCRIPTION",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
+		"prevter.imageplus": ">=1.0.0"
 	}
 }
